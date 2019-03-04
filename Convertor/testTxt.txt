@@ -1,0 +1,4 @@
+﻿D:\\Cecil's Projects\\Automation4ID\\JNTextTransform_UnitTest\\test Folder\\source files
+D:\\Cecil's Projects\\Automation4ID\\JNTextTransform_UnitTest\\test Folder\\output
+D:\\Cecil's Projects\\Automation4ID\\JNTextTransform_UnitTest\\test Folder\\strategy
+D:\\Cecil's Projects\\Automation4ID\\JNTextTransform_UnitTest\\test Folder\\log
